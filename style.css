@@ -28,7 +28,7 @@ body {
   background-position: 50% 50%;
   width: 100%;
   max-width: 800px;
-  margin-top: 8px;
+  margin: 8px 0;
 }
 .card-identity-content {
   /*customizable*/
