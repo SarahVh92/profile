@@ -1,3 +1,4 @@
+/* let's try to simplify this file */
 * {
   box-sizing: border-box;
 }
@@ -114,14 +115,15 @@ ul.social-media {
 }
 
 i.fas.fa-envelope,
-i.fab.fa-linkedin {
+i.fab.fa-linkedin,
+i.fa-brands.fa-github {
   font-size: 32px;
 }
 
 i.fas.fa-envelope:hover,
-i.fab.fa-linkedin:hover {
+i.fab.fa-linkedin:hover,
+i.fa-brands.fa-github:hover {
   color: #b36a5e;
-  font-size: 250%
 }
 
 dl.hobby{
@@ -169,37 +171,3 @@ p,
 dd {
   line-height: 1.6;
 }
-/*
-.card-beige {
-  background-color: #eee2df;
-  padding: 8px;
-  color: #b36a5e;
-  border-radius: 16px;
-  margin-bottom: 8px;
-}
-
-.hero-text {
-  margin: 0 auto;
-  padding-top: 8px;
-  text-align: center;
-  font-size: 16px;
-}
-
-.hero-text h1 {
-  margin: 0;
-} */
-
-/* Another way of making an image into a circle */
-/* .hero-picture {
-  width: 250px;
-  height: 250px;
-  overflow: hidden;
-  border-radius: 50%;
-  margin: auto;
-}
-
-.hero-picture img {
-  width: 100%;
-  height: auto;
-  margin-top: -25px;
-} */
